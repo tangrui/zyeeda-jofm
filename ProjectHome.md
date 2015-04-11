@@ -1,0 +1,1 @@
+Java Object Form Mapping (jOFM) is the same like Object-Relational Mapping (ORM). This component can convert annotated entities to web forms and the opposite.
